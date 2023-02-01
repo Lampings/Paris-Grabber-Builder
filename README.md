@@ -2,8 +2,7 @@
 ---------------------------------------------------------------
 
   Paris Token Grabber
-
-                ![image](https://user-images.githubusercontent.com/124187460/216137619-b3fb7e8c-799c-4069-bfa5-1c8c4d7aa069.png)
+![image](https://user-images.githubusercontent.com/124187460/216137619-b3fb7e8c-799c-4069-bfa5-1c8c4d7aa069.png)
 
 
 
