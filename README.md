@@ -3,16 +3,10 @@
 <h1 align="center">
   Paris Token Grabber
 </h1>
+![image](https://user-images.githubusercontent.com/124187460/216137619-b3fb7e8c-799c-4069-bfa5-1c8c4d7aa069.png)
 
-<div align="center">
-  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
-  <br>
-  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
- 
-</div>
+
+
 
 ## Features
 
